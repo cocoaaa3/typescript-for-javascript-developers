@@ -91,6 +91,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "dev": "ts-node-dev --respawn",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
