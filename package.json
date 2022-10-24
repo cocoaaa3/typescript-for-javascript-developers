@@ -6,6 +6,7 @@
   "dependencies": {
     "arg": "^4.1.3",
     "array-find-index": "^1.0.2",
+    "axios": "^0.19.2",
     "balanced-match": "^1.0.2",
     "brace-expansion": "^1.1.11",
     "buffer-from": "^1.1.2",
